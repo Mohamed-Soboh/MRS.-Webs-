@@ -1,4 +1,5 @@
 # Dreamy dates danish website
+(Javascript,PHP,HTML,Css)
 ![Screenshot 2024-01-13 151108](https://github.com/Mohamed-Soboh/dreamdates/assets/95254660/0cec7db5-69f2-46ed-90ff-a663a353f9c1)
 1 gallery
 ![22222](https://github.com/Mohamed-Soboh/dreamdates/assets/95254660/6a659473-f816-4e28-90b7-5698f0dc4db0)
@@ -8,9 +9,11 @@
 ![Screenshot 2024-01-13 151200](https://github.com/Mohamed-Soboh/dreamdates/assets/95254660/af0bf9d0-5a5a-4e52-8e3c-67dff47e6ce1)
 
 # Arabic website Hekayet baladna
+(Javascript,HTML,Css)
 Arabic Travel web 
 This site was built using [MRS.]([[https://pages.github.com/](https://mohamed-soboh.github.io/hekayet-bldna-web.github.io/)https://mohamed-soboh.github.io/hekayet-bldna-web.github.io].
 ![Screenshot 2024-01-13 152619](https://github.com/Mohamed-Soboh/MRS.-Webs-/assets/95254660/c56b11ab-43fc-47c6-bba5-e1c3de6e942e)
 
 # MohamedSoboh-portfolio
+(Javascript,PHP,HTML,Css,REACT )
 https://github.com/Mohamed-Soboh/Portfolio-Mohamed/assets/95254660/d710adc2-37d0-4564-bffb-5237c7ec9307
