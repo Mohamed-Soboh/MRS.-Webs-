@@ -27,7 +27,7 @@ Link :https://mohamed-portfolio-web.netlify.app/
 https://github.com/Mohamed-Soboh/MRS.-Webs-/assets/95254660/750ce7d5-c8f9-43a5-a6a2-fe88cfcbc58a
 # My Simple Cv (HTML,CSS,JavaScript)
 https://mohamed-soboh.github.io/MyCv.github.io/
-# MRS. WEB (REACT,HTML,CSS,JavaScript,THREE.JS)
+# 3d MRS. WEB (REACT,HTML,CSS,JavaScript,THREE.JS)
 https://github.com/Mohamed-Soboh/MRS.-Webs-/assets/95254660/de286489-ad35-4748-b75d-ef8675e76831
 
 
