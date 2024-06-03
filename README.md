@@ -35,3 +35,8 @@ https://github.com/Mohamed-Soboh/MRS.-Webs-/assets/95254660/de286489-ad35-4748-b
 
 # Telecare(REACT,HTML,CSS,JavaScript) Display a medical product
 
+![Screenshot 2024-06-03 203608](https://github.com/Mohamed-Soboh/MRS.Webs/assets/95254660/096c28fe-12f7-40d9-aeb3-9b5079fb0026)
+![Screenshot 2024-06-03 203636](https://github.com/Mohamed-Soboh/MRS.Webs/assets/95254660/ceda41c9-6bcc-49e5-bcbc-e8931c377fb7)
+![Screenshot 2024-06-03 203535](https://github.com/Mohamed-Soboh/MRS.Webs/assets/95254660/f2b0af27-ec14-47b8-8741-29f27f41cb73)
+![Screenshot 2024-06-03 203552](https://github.com/Mohamed-Soboh/MRS.Webs/assets/95254660/07de79b8-0026-4ba5-99f7-0e7e193374ed)
+
